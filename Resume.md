@@ -37,7 +37,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Bachelor's Computer Science Degree
 - Focus in Functional Programming
 - Machine Learning elective(s)
-- Senior Project - SQL Database Server with Web-Front
+- Senior Project
 
 
 ## Certifications
@@ -59,6 +59,12 @@ __Diaconia__, Remote
 - Worked under Diaconia to learn AWS systems
 - Completed AWS Associate Architect Certification
 - Worked on AWS Associate Developer Certification
+
+### Senior Project
+
+- Created a secure MySQL server in AWS inside a VPC with a public EC2 attached (VM)
+- Used Route53 (AWS DNS) to connect to the EC2 instance
+- Wrote an PHP/HTML page to query the SQL server from the web-front
 
 
 ## Service and Work History
