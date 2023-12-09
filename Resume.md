@@ -60,6 +60,7 @@ __Diaconia__, Remote
 - Completed AWS Associate Architect Certification
 - Worked on AWS Associate Developer Certification
 
+`September 2023 - December 2023`
 ### Senior Project
 
 - Created a secure MySQL server in AWS inside a VPC with a public EC2 attached (VM)
